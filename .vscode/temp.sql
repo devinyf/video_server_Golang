@@ -1,0 +1,1 @@
+INSERT INTO video_del_rec (video_id) VALUES(?)
